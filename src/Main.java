@@ -8,10 +8,10 @@ public class Main {
         Flight flight3 = new Flight("SU300", "Казань", "Токио", "2024-12-17 18:45", 180);
 
 
-        Passenger passenger1 = new Passenger("P001", "Иванов Иван", "ivanov@email.com", "+79161234567", 28);
-        Passenger passenger2 = new Passenger("P002", "Петрова Анна", "petrova@email.com", "+79269876543", 35);
-        Passenger passenger3 = new Passenger("P003", "Сидоров Алексей", "sidorov@email.com", "+79031112233", 42);
-        Passenger passenger4 = new Passenger("P004", "Кузнецова Мария", "kuznetsova@email.com", "+79507778899", 25);
+        Passenger passenger1 = new Passenger("P001", "Садыков Арнур", "sadykov@email.com", "+77051234567", 28);
+        Passenger passenger2 = new Passenger("P002", "Мадияров Арлан", "madiarov@email.com", "+77779876543", 35);
+        Passenger passenger3 = new Passenger("P003", "Сайфулин Халмырза", "saifulin@email.com", "+77081112233", 42);
+        Passenger passenger4 = new Passenger("P004", "Зайфуллин Анарбек", "zaifullin@email.com", "+77017778899", 25);
 
 
         System.out.println("=== ИНФОРМАЦИЯ О РЕЙСАХ ===");
